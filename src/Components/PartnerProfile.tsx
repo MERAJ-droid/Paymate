@@ -42,7 +42,7 @@ export default function PartnerProfile(): JSX.Element {
         <FormControl id="userName">
           <FormLabel>Partner name</FormLabel>
           <Input
-            placeholder="Rajpal Yadav"
+            placeholder="Partner name"
             _placeholder={{ color: "#000", fontWeight: "bold" }}
             type="text"
             isDisabled
